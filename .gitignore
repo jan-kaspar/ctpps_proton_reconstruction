@@ -1,0 +1,9 @@
+*.swo
+*.swp
+*.root
+*.pdf
+
+parametrisation
+simulations
+
+test_reconstruction
